@@ -1,0 +1,1310 @@
+{
+  "001": {
+    "ispb": "00000000",
+    "link": "www.bb.com.br",
+    "name": "BANCO DO BRASIL S/A",
+    "nick": "BB"
+  },
+  "003": {
+    "ispb": "04902979",
+    "link": "www.bancoamazonia.com.br",
+    "name": "BANCO DA AMAZONIA S/A",
+    "nick": ""
+  },
+  "004": {
+    "ispb": "07237373",
+    "link": "www.banconordeste.gov.br",
+    "name": "BANCO DO NORDESTE DO BRASIL S/A",
+    "nick": ""
+  },
+  "007": {
+    "ispb": "33657248",
+    "link": "www.bndes.gov.br",
+    "name": "BANCO NACIONAL DO DESENVOLVIMENTO SOCIAL",
+    "nick": "BNDES"
+  },
+  "010": {
+    "ispb": "81723108",
+    "link": "",
+    "name": "CREDICOAMO",
+    "nick": ""
+  },
+  "011": {
+    "ispb": "61809182",
+    "link": "",
+    "name": "C.SUISSE HEDGING-GRIFFO CV S/A",
+    "nick": "CREDIT SUISSE"
+  },
+  "012": {
+    "ispb": "04866275",
+    "link": "www.bancoinbursa.com",
+    "name": "BANCO INBURSA",
+    "nick": ""
+  },
+  "014": {
+    "ispb": "09274232",
+    "link": "www.br.natixis.com",
+    "name": "NATIXIS BRASIL S/A",
+    "nick": ""
+  },
+  "015": {
+    "ispb": "02819125",
+    "link": "",
+    "name": "UBS BRASIL CCTVM S/A",
+    "nick": ""
+  },
+  "016": {
+    "ispb": "04715685",
+    "link": "",
+    "name": "CCM DESP TRANS SC E RS",
+    "nick": ""
+  },
+  "017": {
+    "ispb": "42272526",
+    "link": "www.bnymellon.com.br",
+    "name": "BNY MELLON BANCO S/A",
+    "nick": ""
+  },
+  "018": {
+    "ispb": "57839805",
+    "link": "www.bancotricury.com.br",
+    "name": "BANCO TRICURY S/A",
+    "nick": ""
+  },
+  "021": {
+    "ispb": "28127603",
+    "link": "www.banestes.com.br",
+    "name": "BANCO BANESTES S/A",
+    "nick": ""
+  },
+  "024": {
+    "ispb": "10866788",
+    "link": "",
+    "name": "BANCO BANDEPE S/A",
+    "nick": ""
+  },
+  "025": {
+    "ispb": "03323840",
+    "link": "www.bancoalfa.com.br",
+    "name": "BANCO ALFA S/A",
+    "nick": ""
+  },
+  "029": {
+    "ispb": "33885724",
+    "link": "",
+    "name": "BANCO ITAU CONSIGNADO S/A",
+    "nick": ""
+  },
+  "033": {
+    "ispb": "90400888",
+    "link": "www.santander.com.br",
+    "name": "BANCO SANTANDER BRASIL S/A",
+    "nick": ""
+  },
+  "036": {
+    "ispb": "06271464",
+    "link": "",
+    "name": "BANCO BBI S/A",
+    "nick": ""
+  },
+  "037": {
+    "ispb": "04913711",
+    "link": "www.banpara.b.br",
+    "name": "BANCO DO ESTADO DO PARA S/A",
+    "nick": "BANPARA"
+  },
+  "040": {
+    "ispb": "03609817",
+    "link": "www.bancocargill.com.br",
+    "name": "BANCO CARGILL S/A",
+    "nick": ""
+  },
+  "041": {
+    "ispb": "92702067",
+    "link": "www.banrisul.com.br",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A",
+    "nick": "BANRISUL"
+  },
+  "047": {
+    "ispb": "13009717",
+    "link": "www.banese.com.br",
+    "name": "BANCO DO ESTADO DE SERGIPE S/A",
+    "nick": "BANESE"
+  },
+  "051": {
+    "ispb": "",
+    "link": "www.bandes.com.br",
+    "name": "BANCO DE DESENVOLVIMENTO DO ESPIRITO SANTO S/A",
+    "nick": "BANDES"
+  },
+  "060": {
+    "ispb": "04913129",
+    "link": "",
+    "name": "CONFIDENCE CC S/A",
+    "nick": ""
+  },
+  "062": {
+    "ispb": "03012230",
+    "link": "www.hipercard.com.br",
+    "name": "HIPERCARD BM S/A",
+    "nick": ""
+  },
+  "063": {
+    "ispb": "04184779",
+    "link": "www.ibi.com.br",
+    "name": "BANCO BRADESCARD",
+    "nick": ""
+  },
+  "064": {
+    "ispb": "04332281",
+    "link": "www.goldmansachs.com",
+    "name": "GOLDMAN SACHS DO BRASIL BM S/A",
+    "nick": ""
+  },
+  "065": {
+    "ispb": "48795256",
+    "link": "www.andbank-lla.com.br",
+    "name": "BANCO ANDBANK S/A",
+    "nick": ""
+  },
+  "066": {
+    "ispb": "02801938",
+    "link": "www.morganstanley.com.br",
+    "name": "BANCO MORGAN STANLEY S/A",
+    "nick": ""
+  },
+  "069": {
+    "ispb": "61033106",
+    "link": "www.crefisa.com.br",
+    "name": "BANCO CREFISA S/A",
+    "nick": ""
+  },
+  "070": {
+    "ispb": "00000208",
+    "link": "www.brb.com.br",
+    "name": "BANCO DE BRASILIA",
+    "nick": "BRB"
+  },
+  "074": {
+    "ispb": "03017677",
+    "link": "www.safra.com.br",
+    "name": "BANCO J. SAFRA S/A",
+    "nick": ""
+  },
+  "075": {
+    "ispb": "03532415",
+    "link": "www.abnamro.com",
+    "name": "BANCO ABN AMRO S/A",
+    "nick": ""
+  },
+  "076": {
+    "ispb": "07656500",
+    "link": "www.bancokdb.com.br",
+    "name": "BANCO KDB BRASIL S/A",
+    "nick": ""
+  },
+  "077": {
+    "ispb": "00416968",
+    "link": "www.bancointer.com.br",
+    "name": "BANCO INTER S/A",
+    "nick": ""
+  },
+  "078": {
+    "ispb": "34111187",
+    "link": "www.haitongib.com.br",
+    "name": "HAITONG BANCO DE INVESTIMENTO DO BRASIL S/A",
+    "nick": ""
+  },
+  "079": {
+    "ispb": "09516419",
+    "link": "www.original.com.br",
+    "name": "BANCO ORIGINAL DO AGRONEGOCIO S/A",
+    "nick": ""
+  },
+  "080": {
+    "ispb": "73622748",
+    "link": "",
+    "name": "B&T CC LTDA",
+    "nick": ""
+  },
+  "081": {
+    "ispb": "10264663",
+    "link": "RENDIMENTO",
+    "name": "BBN BANCO BRASILEIRO DE NEGOCIOS S/A",
+    "nick": "www.rendimento.com.br"
+  },
+  "082": {
+    "ispb": "07679404",
+    "link": "",
+    "name": "BANCO TOPAZIO S/A",
+    "nick": "www.bancotopazio.com.br"
+  },
+  "083": {
+    "ispb": "10690848",
+    "link": "",
+    "name": "BANCO DA CHINA BRASIL S/A",
+    "nick": "www.boc-brazil.com"
+  },
+  "084": {
+    "ispb": "02398976",
+    "link": "",
+    "name": "UNIPRIME NORTE DO PARANA",
+    "nick": ""
+  },
+  "085": {
+    "ispb": "05463212",
+    "link": "",
+    "name": "COOP CENTRAL DE CREDITO AILOS",
+    "nick": "www.ailos.coop.br"
+  },
+  "087": {
+    "ispb": "",
+    "link": "www.unicred.com.br",
+    "name": "COOPERATIVA CENTRAL DE ECONOMIA E CREDITO MUTUO DAS UNICREDS DE SANTA CATARINA E PARANA",
+    "nick": "UNICRED"
+  },
+  "089": {
+    "ispb": "62109566",
+    "link": "",
+    "name": "COOPERATIVA DE CREDITO RURAL DA REGIAO DA MOGIANA",
+    "nick": "www.credisan.com.br"
+  },
+  "090": {
+    "ispb": "",
+    "link": "www.sicoobunimais.com",
+    "name": "COOPERATIVA CENTRAL DE ECONOMIA E CREDITO MUTUO",
+    "nick": "SICOOB UNIMAIS"
+  },
+  "091": {
+    "ispb": "01634601",
+    "link": "www.unicred-rs.com.br",
+    "name": "UNICRED CENTRAL DO RIO GRANDE DO SUL",
+    "nick": ""
+  },
+  "092": {
+    "ispb": "12865507",
+    "link": "www.brickellcfi.com.br",
+    "name": "BRICKELL S/A",
+    "nick": "BRK"
+  },
+  "093": {
+    "ispb": "07945233",
+    "link": "",
+    "name": "POLOCRED SCMEPP LTDA",
+    "nick": ""
+  },
+  "094": {
+    "ispb": "11758741",
+    "link": "www.bancofinaxis.com.br",
+    "name": "BANCO FINAXIS",
+    "nick": ""
+  },
+  "095": {
+    "ispb": "11703662",
+    "link": "www.bancoconfidence.com.br",
+    "name": "BANCO CONFIDENCE DE CAMBIO S/A",
+    "nick": ""
+  },
+  "096": {
+    "ispb": "00997185",
+    "link": "www.bmfbovespa.com.br",
+    "name": "BANCO B3 S/A",
+    "nick": ""
+  },
+  "097": {
+    "ispb": "04632856",
+    "link": "www.credisis.com.br",
+    "name": "COOPERATIVA CENTRAL DE CREDITO NOROESTE BRASILEIRO LTDA",
+    "nick": "CREDISIS"
+  },
+  "098": {
+    "ispb": "78157146",
+    "link": "www.credialianca.com.br",
+    "name": "CREDIALIANCA COOPERATIVA DE CREDITO RURAL",
+    "nick": ""
+  },
+  "099": {
+    "ispb": "03046391",
+    "link": "",
+    "name": "UNIPRIME CENTRAL CCC LTDA",
+    "nick": ""
+  },
+  "100": {
+    "ispb": "00806535",
+    "link": "",
+    "name": "PLANNER CORRETORA DE VALORES S/A",
+    "nick": ""
+  },
+  "101": {
+    "ispb": "62287735",
+    "link": "",
+    "name": "RENASCENCA DTVM LTDA",
+    "nick": ""
+  },
+  "102": {
+    "ispb": "02332886",
+    "link": "",
+    "name": "XP INVESTIMENTOS S/A",
+    "nick": ""
+  },
+  "104": {
+    "ispb": "00360305",
+    "link": "www.caixa.gov.br",
+    "name": "CAIXA ECONOMICA FEDERAL",
+    "nick": "CEF"
+  },
+  "105": {
+    "ispb": "07652226",
+    "link": "",
+    "name": "LECCA CFI S/A",
+    "nick": ""
+  },
+  "107": {
+    "ispb": "15114366",
+    "link": "www.bancobbm.com.br",
+    "name": "BANCO BOCOM BBM S/A",
+    "nick": ""
+  },
+  "108": {
+    "ispb": "01800019",
+    "link": "",
+    "name": "PORTOCRED S/A",
+    "nick": ""
+  },
+  "111": {
+    "ispb": "36113876",
+    "link": "",
+    "name": "BANCO OLIVEIRA TRUST DTVM S/A",
+    "nick": ""
+  },
+  "113": {
+    "ispb": "61723847",
+    "link": "",
+    "name": "MAGLIANO S/A",
+    "nick": ""
+  },
+  "114": {
+    "ispb": "05790149",
+    "link": "www.cecoop.com.br",
+    "name": "CENTRAL COOPERATIVA DE CREDITO NO ESTADO DO ESPIRITO SANTO",
+    "nick": "CECOOP"
+  },
+  "117": {
+    "ispb": "92856905",
+    "link": "",
+    "name": "ADVANCED CC LTDA",
+    "nick": ""
+  },
+  "118": {
+    "ispb": "11932017",
+    "link": "www.standardchartered.com",
+    "name": "STANDARD CHARTERED BI S/A",
+    "nick": ""
+  },
+  "119": {
+    "ispb": "13720915",
+    "link": "www.bancowesternunion.com.br",
+    "name": "BANCO WESTERN UNION DO BRASIL S/A",
+    "nick": ""
+  },
+  "120": {
+    "ispb": "33603457",
+    "link": "www.rodobens.com.br",
+    "name": "BANCO RODOBENS S/A",
+    "nick": ""
+  },
+  "121": {
+    "ispb": "10664513",
+    "link": "www.agibank.com.br",
+    "name": "BANCO AGIBANK S/A",
+    "nick": ""
+  },
+  "122": {
+    "ispb": "33147315",
+    "link": "",
+    "name": "BANCO BRADESCO BERJ S/A",
+    "nick": ""
+  },
+  "124": {
+    "ispb": "15357060",
+    "link": "www.wooribank.com.br",
+    "name": "BANCO WOORI BANK DO BRASIL S/A",
+    "nick": ""
+  },
+  "125": {
+    "ispb": "45246410",
+    "link": "www.brasilplural.com",
+    "name": "BRASIL PLURAL S/A",
+    "nick": ""
+  },
+  "126": {
+    "ispb": "13220493",
+    "link": "www.brap.com.br",
+    "name": "BR PARTNERS BANCO DE INVESTIMENTO S/A",
+    "nick": ""
+  },
+  "127": {
+    "ispb": "09512542",
+    "link": "",
+    "name": "CODEPE CVC S/A",
+    "nick": ""
+  },
+  "128": {
+    "ispb": "19307785",
+    "link": "www.msbank.com.br",
+    "name": "MS BANK S/A",
+    "nick": ""
+  },
+  "129": {
+    "ispb": "18520834",
+    "link": "www.ubs.com",
+    "name": "UBS BRASIL BANCO DE INVESTIMENTO S/A",
+    "nick": ""
+  },
+  "130": {
+    "ispb": "09313766",
+    "link": "",
+    "name": "CARUANA SCFI",
+    "nick": ""
+  },
+  "131": {
+    "ispb": "61747085",
+    "link": "",
+    "name": "TULLETT PREBON BRASIL CVC LTDA",
+    "nick": ""
+  },
+  "132": {
+    "ispb": "17453575",
+    "link": "",
+    "name": "ICBC DO BRASIL BM S/A",
+    "nick": ""
+  },
+  "133": {
+    "ispb": "10398952",
+    "link": "",
+    "name": "CRESOL CONFEDERACAO",
+    "nick": ""
+  },
+  "134": {
+    "ispb": "33862244",
+    "link": "",
+    "name": "BGC LIQUIDEZ DTVM LTDA",
+    "nick": ""
+  },
+  "136": {
+    "ispb": "00315557",
+    "link": "",
+    "name": "UNICRED COOPERATIVA",
+    "nick": ""
+  },
+  "137": {
+    "ispb": "12586596",
+    "link": "",
+    "name": "MULTIMONEY CC LTDA",
+    "nick": ""
+  },
+  "138": {
+    "ispb": "10853017",
+    "link": "",
+    "name": "GET MONEY CC LTDA",
+    "nick": ""
+  },
+  "139": {
+    "ispb": "55230916",
+    "link": "www.intesasanpaolobrasil.com.br",
+    "name": "INTESA SANPAOLO BRASIL S/A",
+    "nick": ""
+  },
+  "140": {
+    "ispb": "62169875",
+    "link": "",
+    "name": "EASYNVEST - TITULO CV S/A",
+    "nick": ""
+  },
+  "142": {
+    "ispb": "16944141",
+    "link": "",
+    "name": "BROKER BRASIL CC LTDA",
+    "nick": ""
+  },
+  "143": {
+    "ispb": "02992317",
+    "link": "",
+    "name": "TREVISO CC S/A",
+    "nick": ""
+  },
+  "144": {
+    "ispb": "13059145",
+    "link": "www.bexs.com.br",
+    "name": "BEXS BANCO DE CAMBIO S/A",
+    "nick": ""
+  },
+  "145": {
+    "ispb": "50579044",
+    "link": "",
+    "name": "LEVYCAM CCV LTDA",
+    "nick": ""
+  },
+  "146": {
+    "ispb": "24074692",
+    "link": "",
+    "name": "GUITTA CC LTDA",
+    "nick": ""
+  },
+  "149": {
+    "ispb": "15581638",
+    "link": "",
+    "name": "FACTA S/A CFI",
+    "nick": ""
+  },
+  "157": {
+    "ispb": "09105360",
+    "link": "",
+    "name": "ICAP DO BRASIL CTVM LTDA",
+    "nick": ""
+  },
+  "159": {
+    "ispb": "05442029",
+    "link": "",
+    "name": "CASA CREDITO S/A",
+    "nick": ""
+  },
+  "163": {
+    "ispb": "23522214",
+    "link": "www.commerzbank.com.br",
+    "name": "COMMERZBANK BRASIL S/A",
+    "nick": ""
+  },
+  "169": {
+    "ispb": "71371686",
+    "link": "www.oleconsignado.com.br",
+    "name": "BANCO OLE BONSUCESSO CONSIGNADO S/A",
+    "nick": ""
+  },
+  "172": {
+    "ispb": "05452073",
+    "link": "",
+    "name": "ALBATROSS CCV S/A",
+    "nick": ""
+  },
+  "173": {
+    "ispb": "13486793",
+    "link": "",
+    "name": "BRL TRUST DTVM SA",
+    "nick": ""
+  },
+  "174": {
+    "ispb": "43180355",
+    "link": "",
+    "name": "PERNAMBUCANAS FINANC S/A",
+    "nick": ""
+  },
+  "177": {
+    "ispb": "65913436",
+    "link": "",
+    "name": "GUIDE",
+    "nick": ""
+  },
+  "180": {
+    "ispb": "02685483",
+    "link": "",
+    "name": "CM CAPITAL MARKETS CCTVM LTDA",
+    "nick": ""
+  },
+  "182": {
+    "ispb": "27406222",
+    "link": "",
+    "name": "DACASA FINANCEIRA S/A",
+    "nick": ""
+  },
+  "183": {
+    "ispb": "09210106",
+    "link": "",
+    "name": "SOCRED S/A",
+    "nick": ""
+  },
+  "184": {
+    "ispb": "17298092",
+    "link": "www.itaubba.com.br",
+    "name": "BANCO ITAU BBA S/A",
+    "nick": ""
+  },
+  "188": {
+    "ispb": "33775974",
+    "link": "",
+    "name": "ATIVA S/A INVESTIMENTOS",
+    "nick": ""
+  },
+  "189": {
+    "ispb": "07512441",
+    "link": "",
+    "name": "HS FINANCEIRA",
+    "nick": ""
+  },
+  "190": {
+    "ispb": "03973814",
+    "link": "",
+    "name": "SERVICOOP",
+    "nick": ""
+  },
+  "191": {
+    "ispb": "04257795",
+    "link": "",
+    "name": "NOVA FUTURA CTVM LTDA",
+    "nick": ""
+  },
+  "194": {
+    "ispb": "20155248",
+    "link": "",
+    "name": "PARMETAL DTVM LTDA",
+    "nick": ""
+  },
+  "196": {
+    "ispb": "32648370",
+    "link": "",
+    "name": "BANCO FAIR CC S/A",
+    "nick": ""
+  },
+  "197": {
+    "ispb": "16501555",
+    "link": "",
+    "name": "STONE PAGAMENTOS S/A",
+    "nick": ""
+  },
+  "204": {
+    "ispb": "59438325",
+    "link": "",
+    "name": "BANCO BRADESCO CARTOES S/A",
+    "nick": ""
+  },
+  "208": {
+    "ispb": "30306294",
+    "link": "www.btgpactual.com",
+    "name": "BANCO BTG PACTUAL S/A",
+    "nick": ""
+  },
+  "212": {
+    "ispb": "92894922",
+    "link": "www.original.com.br",
+    "name": "BANCO ORIGINAL S/A",
+    "nick": ""
+  },
+  "213": {
+    "ispb": "54403563",
+    "link": "www.arbi.com.br",
+    "name": "BANCO ARBI S/A",
+    "nick": ""
+  },
+  "217": {
+    "ispb": "91884981",
+    "link": "www.johndeere.com.br",
+    "name": "BANCO JOHN DEERE S/A",
+    "nick": ""
+  },
+  "218": {
+    "ispb": "71027866",
+    "link": "www.bs2.com",
+    "name": "BANCO BS2 S/A",
+    "nick": ""
+  },
+  "222": {
+    "ispb": "75647891",
+    "link": "www.calyon.com.br",
+    "name": "BANCO CREDIT AGRICOLE BRASIL S/A",
+    "nick": ""
+  },
+  "224": {
+    "ispb": "58616418",
+    "link": "www.bancofibra.com.br",
+    "name": "BANCO FIBRA S/A",
+    "nick": ""
+  },
+  "233": {
+    "ispb": "62421979",
+    "link": "www.bancocifra.com.br",
+    "name": "BANCO CIFRA S/A",
+    "nick": ""
+  },
+  "237": {
+    "ispb": "60746948",
+    "link": "www.bradesco.com.br",
+    "name": "BANCO BRADESCO S/A",
+    "nick": ""
+  },
+  "241": {
+    "ispb": "31597552",
+    "link": "www.bancoclassico.com.br",
+    "name": "BANCO CLASSICO S/A",
+    "nick": ""
+  },
+  "243": {
+    "ispb": "33923798",
+    "link": "www.bancomaxima.com.br",
+    "name": "BANCO MAXIMA S/A",
+    "nick": ""
+  },
+  "246": {
+    "ispb": "28195667",
+    "link": "www.abcbrasil.com.br",
+    "name": "BANCO ABC BRASIL S/A",
+    "nick": ""
+  },
+  "249": {
+    "ispb": "61182408",
+    "link": "",
+    "name": "BANCO INVESTCRED UNIBANCO S/A",
+    "nick": ""
+  },
+  "250": {
+    "ispb": "50585090",
+    "link": "www.bancobcv.com.br",
+    "name": "BANCO BANCO DE CREDITO E VAREJO S/A",
+    "nick": "BCV"
+  },
+  "253": {
+    "ispb": "52937216",
+    "link": "",
+    "name": "BEXS CC S/A",
+    "nick": ""
+  },
+  "254": {
+    "ispb": "14388334",
+    "link": "www.paranabanco.com.br",
+    "name": "PARANA BANCO S/A",
+    "nick": ""
+  },
+  "260": {
+    "ispb": "18236120",
+    "link": "www.nubank.com.br",
+    "name": "NU PAGAMENTOS S/A",
+    "nick": "NUBANK"
+  },
+  "265": {
+    "ispb": "33644196",
+    "link": "www.fator.com.br",
+    "name": "BANCO FATOR S/A",
+    "nick": ""
+  },
+  "266": {
+    "ispb": "33132044",
+    "link": "www.bancocedula.com.br",
+    "name": "BANCO CEDULA S/A",
+    "nick": ""
+  },
+  "268": {
+    "ispb": "14511781",
+    "link": "",
+    "name": "BARIGUI CH",
+    "nick": ""
+  },
+  "269": {
+    "ispb": "53518684",
+    "link": "",
+    "name": "HSBC BANCO DE INVESTIMENTO",
+    "nick": ""
+  },
+  "270": {
+    "ispb": "61444949",
+    "link": "",
+    "name": "SAGITUR CC LTDA",
+    "nick": ""
+  },
+  "271": {
+    "ispb": "27842177",
+    "link": "",
+    "name": "IB CCTVM LTDA",
+    "nick": ""
+  },
+  "273": {
+    "ispb": "08253539",
+    "link": "",
+    "name": "CCR DE SAO MIGUEL DO OESTE",
+    "nick": ""
+  },
+  "276": {
+    "ispb": "11970623",
+    "link": "",
+    "name": "SENFF S/A",
+    "nick": ""
+  },
+  "278": {
+    "ispb": "27652684",
+    "link": "",
+    "name": "GENIAL INVESTIMENTOS CVM S/A",
+    "nick": ""
+  },
+  "279": {
+    "ispb": "26563270",
+    "link": "",
+    "name": "CCR DE PRIMAVERA DO LESTE",
+    "nick": ""
+  },
+  "280": {
+    "ispb": "23862762",
+    "link": "",
+    "name": "AVISTA S/A",
+    "nick": ""
+  },
+  "283": {
+    "ispb": "89960090",
+    "link": "",
+    "name": "RB CAPITAL INVESTIMENTOS DTVM LTDA",
+    "nick": ""
+  },
+  "285": {
+    "ispb": "71677850",
+    "link": "",
+    "name": "FRENTE CC LTDA",
+    "nick": ""
+  },
+  "286": {
+    "ispb": "07853842",
+    "link": "",
+    "name": "CCR DE OURO",
+    "nick": ""
+  },
+  "288": {
+    "ispb": "62237649",
+    "link": "",
+    "name": "CAROL DTVM LTDA",
+    "nick": ""
+  },
+  "290": {
+    "ispb": "08561701",
+    "link": "",
+    "name": "PAGSEGURO INTERNET S/A",
+    "nick": ""
+  },
+  "292": {
+    "ispb": "28650236",
+    "link": "",
+    "name": "BS2 DISTRIBUIDORA DE TITULOS E INVESTIMENTOS",
+    "nick": ""
+  },
+  "293": {
+    "ispb": "71590442",
+    "link": "",
+    "name": "LASTRO RDV DTVM LTDA",
+    "nick": ""
+  },
+  "298": {
+    "ispb": "17772370",
+    "link": "",
+    "name": "VIPS CC LTDA",
+    "nick": ""
+  },
+  "300": {
+    "ispb": "33042151",
+    "link": "www.bna.com.ar",
+    "name": "BANCO LA NACION ARGENTINA",
+    "nick": ""
+  },
+  "301": {
+    "ispb": "13370835",
+    "link": "",
+    "name": "BPP INSTITUICAO DE PAGAMENTOS S/A",
+    "nick": ""
+  },
+  "310": {
+    "ispb": "22610500",
+    "link": "",
+    "name": "VORTX DTVM LTDA",
+    "nick": ""
+  },
+  "318": {
+    "ispb": "61186680",
+    "link": "www.bancobmg.com.br",
+    "name": "BANCO BMG S/A",
+    "nick": ""
+  },
+  "320": {
+    "ispb": "07450604",
+    "link": "www.br.ccb.com",
+    "name": "BANCO CHINA CONSTRUCTION BANK BRASIL S/A",
+    "nick": "CCB BRASIL"
+  },
+  "323": {
+    "ispb": "10573521",
+    "link": "",
+    "name": "MERCADO PAGO - CONTA DO MERCADO LIVRE",
+    "nick": ""
+  },
+  "330": {
+    "ispb": "",
+    "link": "www.bancobari.com.br",
+    "name": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S/A",
+    "nick": ""
+  },
+  "335": {
+    "ispb": "27098060",
+    "link": "",
+    "name": "BANCO DIGIO S/A",
+    "nick": ""
+  },
+  "336": {
+    "ispb": "28326000",
+    "link": "",
+    "name": "BANCO C6 S/A - C6 BANK",
+    "nick": ""
+  },
+  "340": {
+    "ispb": "09554480",
+    "link": "",
+    "name": "SUPER PAGAMENTOS S/A",
+    "nick": "SUPERDITAL"
+  },
+  "341": {
+    "ispb": "60701190",
+    "link": "www.itau.com.br",
+    "name": "ITAU UNIBANCO S/A",
+    "nick": ""
+  },
+  "348": {
+    "ispb": "33264668",
+    "link": "",
+    "name": "BANCO XP S/A",
+    "nick": ""
+  },
+  "364": {
+    "ispb": "09089356",
+    "link": "",
+    "name": "GERENCIANET PAGAMENTOS DO BRASIL",
+    "nick": ""
+  },
+  "366": {
+    "ispb": "61533584",
+    "link": "www.sgbrasil.com.br",
+    "name": "BANCO SOCIETE GENERALE BRASIL",
+    "nick": ""
+  },
+  "370": {
+    "ispb": "61088183",
+    "link": "www.mizuhobank.com",
+    "name": "BANCO MIZUHO DO BRASIL S/A",
+    "nick": ""
+  },
+  "376": {
+    "ispb": "33172537",
+    "link": "www.jpmorgan.com",
+    "name": "BANCO J.P. MORGAN S/A",
+    "nick": ""
+  },
+  "389": {
+    "ispb": "17184037",
+    "link": "www.mercantil.com.br",
+    "name": "BANCO MERCANTIL DO BRASIL S/A",
+    "nick": ""
+  },
+  "394": {
+    "ispb": "07207996",
+    "link": "",
+    "name": "BANCO BRADESCO FINANCIAMENTOS S/A",
+    "nick": ""
+  },
+  "399": {
+    "ispb": "01701201",
+    "link": "",
+    "name": "KIRTON BANK S/A",
+    "nick": ""
+  },
+  "412": {
+    "ispb": "15173776",
+    "link": "www.bancocapital.com.br",
+    "name": "BANCO CAPITAL S/A",
+    "nick": ""
+  },
+  "422": {
+    "ispb": "58160789",
+    "link": "www.safra.com.br",
+    "name": "BANCO SAFRA S/A",
+    "nick": ""
+  },
+  "456": {
+    "ispb": "60498557",
+    "link": "www.br.bk.mufg.jp",
+    "name": "BANCO MUFG BRASIL S/A",
+    "nick": ""
+  },
+  "464": {
+    "ispb": "60518222",
+    "link": "www.smbcgroup.com.br",
+    "name": "BANCO SUMITOMO MITSUI BRASIL S/A",
+    "nick": ""
+  },
+  "473": {
+    "ispb": "33466988",
+    "link": "www.bcgbrasil.com.br",
+    "name": "BANCO CAIXA GERAL BRASIL S/A",
+    "nick": ""
+  },
+  "477": {
+    "ispb": "33042953",
+    "link": "www.citibank.com",
+    "name": "CITIBANK N.A",
+    "nick": ""
+  },
+  "479": {
+    "ispb": "60394079",
+    "link": "www.itaubank.com.br",
+    "name": "BANCO ITAUBANK S/A",
+    "nick": ""
+  },
+  "487": {
+    "ispb": "62331228",
+    "link": "www.deutsche-bank.com.br",
+    "name": "DEUTSCHE BANK S/A",
+    "nick": ""
+  },
+  "488": {
+    "ispb": "46518205",
+    "link": "www.jpmorganchase.com",
+    "name": "JPMORGAN CHASE BANK",
+    "nick": ""
+  },
+  "492": {
+    "ispb": "49336860",
+    "link": "www.ing.com",
+    "name": "ING BANK N.V",
+    "nick": ""
+  },
+  "494": {
+    "ispb": "51938876",
+    "link": "www.bancorepublica.com.uy",
+    "name": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "nick": ""
+  },
+  "495": {
+    "ispb": "44189447",
+    "link": "www.bapro.com.ar",
+    "name": "BANCO DE LA PROVINCIA DE BUENOS AIRES ",
+    "nick": ""
+  },
+  "505": {
+    "ispb": "32062580",
+    "link": "www.csfb.com",
+    "name": "BANCO CREDIT SUISSE BRASIL S/A",
+    "nick": ""
+  },
+  "545": {
+    "ispb": "17352220",
+    "link": "",
+    "name": "SENSO CCVM S/A",
+    "nick": ""
+  },
+  "600": {
+    "ispb": "59118133",
+    "link": "www.lusobrasileiro.com.br",
+    "name": "BANCO LUSO BRASILEIRO S/A",
+    "nick": ""
+  },
+  "604": {
+    "ispb": "31895683",
+    "link": "www.bancoindustrial.com.br",
+    "name": "BANCO INDUSTRIAL DO BRASIL S/A",
+    "nick": ""
+  },
+  "610": {
+    "ispb": "78626983",
+    "link": "www.vrinvestimentos.com.br",
+    "name": "BANCO VR S/A",
+    "nick": ""
+  },
+  "611": {
+    "ispb": "61820817",
+    "link": "www.bancopaulista.com.br",
+    "name": "BANCO PAULISTA",
+    "nick": ""
+  },
+  "612": {
+    "ispb": "31880826",
+    "link": "www.bancoguanabara.com.br",
+    "name": "BANCO GUANABARA S/A",
+    "nick": ""
+  },
+  "613": {
+    "ispb": "60850229",
+    "link": "www.bancopecunia.com.br",
+    "name": "OMNI BANCO S/A",
+    "nick": ""
+  },
+  "623": {
+    "ispb": "59285411",
+    "link": "www.bancopan.com.br",
+    "name": "BANCO PAN",
+    "nick": ""
+  },
+  "626": {
+    "ispb": "61348538",
+    "link": "www.ficsa.com.br",
+    "name": "BANCO FICSA S/A",
+    "nick": ""
+  },
+  "630": {
+    "ispb": "58497702",
+    "link": "",
+    "name": "BANCO SMARTBANK S/A",
+    "nick": ""
+  },
+  "633": {
+    "ispb": "68900810",
+    "link": "www.rendimento.com.br",
+    "name": "BANCO RENDIMENTO S/A",
+    "nick": ""
+  },
+  "634": {
+    "ispb": "17351180",
+    "link": "www.tribanco.com.br",
+    "name": "BANCO TRIANGULO S/A",
+    "nick": ""
+  },
+  "637": {
+    "ispb": "60889128",
+    "link": "www.sofisa.com.br",
+    "name": "BANCO SOFISA S/A",
+    "nick": "SOFISA DIRETO"
+  },
+  "641": {
+    "ispb": "33870163",
+    "link": "",
+    "name": "BANCO ALVORADA S/A",
+    "nick": ""
+  },
+  "643": {
+    "ispb": "62144175",
+    "link": "www.pine.com",
+    "name": "BANCO PINE S/A",
+    "nick": ""
+  },
+  "652": {
+    "ispb": "60872504",
+    "link": "www.itau.com.br",
+    "name": "ITAU UNIBANCO HOLDING BM S/A",
+    "nick": ""
+  },
+  "653": {
+    "ispb": "61024352",
+    "link": "www.bip.b.br",
+    "name": "BANCO INDUSVAL S/A",
+    "nick": ""
+  },
+  "654": {
+    "ispb": "92874270",
+    "link": "",
+    "name": "BANCO DIGIMAIS S/A",
+    "nick": ""
+  },
+  "655": {
+    "ispb": "59588111",
+    "link": "www.bancovotorantim.com.br",
+    "name": "BANCO VOTORANTIM S/A",
+    "nick": ""
+  },
+  "658": {
+    "ispb": "",
+    "link": "",
+    "name": "BANCO PORTO REAL DE INVESTIMENTOS S/A",
+    "nick": ""
+  },
+  "707": {
+    "ispb": "62232889",
+    "link": "www.daycoval.com.br",
+    "name": "BANCO DAYCOVAL S/A",
+    "nick": ""
+  },
+  "712": {
+    "ispb": "78632767",
+    "link": "www.ourinvest.com.br",
+    "name": "BANCO OURINVEST S/A",
+    "nick": ""
+  },
+  "720": {
+    "ispb": "",
+    "link": "www.bancomaxinvest.com.br",
+    "name": "BANCO MAXINVEST S/A",
+    "nick": ""
+  },
+  "739": {
+    "ispb": "00558456",
+    "link": "www.cetelem.com.br",
+    "name": "BANCO CETELEM S/A",
+    "nick": ""
+  },
+  "741": {
+    "ispb": "00517645",
+    "link": "www.brp.com.br",
+    "name": "BANCO RIBEIRAO PRETO S/A",
+    "nick": "BRP"
+  },
+  "743": {
+    "ispb": "00795423",
+    "link": "www.bancosemear.com.br",
+    "name": "BANCO SEMEAR S/A",
+    "nick": ""
+  },
+  "745": {
+    "ispb": "33479023",
+    "link": "www.citibank.com.br",
+    "name": "BANCO CITIBANK S/A",
+    "nick": ""
+  },
+  "746": {
+    "ispb": "30723886",
+    "link": "www.bancomodal.com.br",
+    "name": "BANCO MODAL S/A",
+    "nick": ""
+  },
+  "747": {
+    "ispb": "01023570",
+    "link": "www.rabobank.com.br",
+    "name": "BANCO RABOBANK INTERNACIONAL DO BRASIL S/A",
+    "nick": ""
+  },
+  "748": {
+    "ispb": "01181521",
+    "link": "www.sicredi.com.br",
+    "name": "BANCO COOPERATIVO SICREDI S/A",
+    "nick": "SICREDI"
+  },
+  "751": {
+    "ispb": "29030467",
+    "link": "www.br.scotiabank.com",
+    "name": "SCOTIABANK BRASIL",
+    "nick": ""
+  },
+  "752": {
+    "ispb": "01522368",
+    "link": "www.bnpparibas.com.br",
+    "name": "BNP PARIBAS BRASIL S/A",
+    "nick": ""
+  },
+  "753": {
+    "ispb": "74828799",
+    "link": "www.nbcbank.com.br",
+    "name": "NOVO BANCO CONTINENTAL S/A BM",
+    "nick": "NBCBANK"
+  },
+  "754": {
+    "ispb": "76543115",
+    "link": "",
+    "name": "BANCO SISTEMA",
+    "nick": ""
+  },
+  "755": {
+    "ispb": "62073200",
+    "link": "www.ml.com",
+    "name": "BOFA MERRILL LYNCH BM S/A",
+    "nick": ""
+  },
+  "756": {
+    "ispb": "02038232",
+    "link": "www.bancoob.com.br",
+    "name": "BANCO COOPERATIVO DO BRASIL",
+    "nick": "BANCOOB"
+  },
+  "757": {
+    "ispb": "02318507",
+    "link": "www.bancokeb.com.br",
+    "name": "BANCO KEB HANA DO BRASIL S/A",
+    "nick": ""
+  }
+}
